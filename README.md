@@ -2,6 +2,8 @@
 
 **Gamify Your Life** is a single-page web application designed to make personal productivity fun and rewarding. Turn your daily goals into **quests**, earn **XP**, and **level up** as you achieve them — all within a clean, dark-mode interface that helps you stay focused and motivated.
 
+🌐 **Live Demo:** [https://siddth09.github.io/gamifylife/](https://siddth09.github.io/gamifylife/)
+
 ---
 
 ## 🚀 Features
@@ -46,6 +48,13 @@
 ---
 
 ## ⚙️ How to Run
+
+### 🟢 Option 1: View Online
+
+Simply visit the live page here:
+👉 **[https://siddth09.github.io/gamifylife/](https://siddth09.github.io/gamifylife/)**
+
+### 🟣 Option 2: Run Locally
 
 1. Save the project file as **`gamify_app.html`**.
 2. Open it directly in any modern web browser (Chrome, Firefox, or Edge).
