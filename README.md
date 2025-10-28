@@ -2,6 +2,8 @@
 
 **Gamify Your Life** is a single-page web application designed to make personal productivity fun and rewarding. Turn your daily goals into **quests**, earn **XP**, and **level up** as you achieve them — all within a clean, dark-mode interface that helps you stay focused and motivated.
 
+[![Live App](https://img.shields.io/badge/🔗_Open%20Live%20App-Click%20Here-blue?style=for-the-badge)](https://siddth09.github.io/gamifylife/)
+
 🌐 **Live Demo:** [https://siddth09.github.io/gamifylife/](https://siddth09.github.io/gamifylife/)
 
 ---
